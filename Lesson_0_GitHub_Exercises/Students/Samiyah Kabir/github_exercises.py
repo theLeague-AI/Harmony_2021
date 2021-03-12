@@ -3,4 +3,4 @@ This python file will be used to verify you have access to github and to start t
 look like. Pleas make sure to follow the instructions from the google doc.
 """
 
-print("Samiyah Kabirv")
+print("Samiyah_Kabir")
