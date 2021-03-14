@@ -1,8 +1,5 @@
-# Harmony_2021
-the_league.AI Harmony school repository
+## Harmony School Reposity 2021
 
-# Harmony School Reposity 2021
-
-## What it is
+### What it is
 This repository includes the lessons and labs for the 2021 Harmony School Repository. All 
 
